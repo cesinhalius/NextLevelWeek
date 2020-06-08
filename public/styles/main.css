@@ -1,0 +1,31 @@
+:root {
+  --title-color: #20002c;
+  --primary-color: #215f00;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html{
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  background: #C9D6FF;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: Ubuntu, sans-serif;
+  color: var(--title-color);
+}
+
+
+
