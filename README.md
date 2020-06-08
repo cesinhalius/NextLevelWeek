@@ -19,8 +19,8 @@ A parte do Back-End e banco de dados:
 
 <p> Para aqueles que querem testar primeiro precisa instalar as dependencias </p> 
  
-     #npm install
+     npm install
 
  <p>Após a instalação você já pode fazer o teste </p> 
 
-     #npm start  
+     npm start  
