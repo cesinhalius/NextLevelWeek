@@ -65,6 +65,14 @@ db.all(`SELECT * FROM places`, function (err, rows) {
     console.log("Registro deletado com sucesso")
   })
 
-    
-})
  */ 
+// alterar a tabela
+/*db.run(`ALTER TABLE places add E-mail TEXT`, function (err){
+  if(err){
+    return console.log(err)
+  }
+  console.log("Tabela alterada com sucesso")
+})
+
+})
+*/
