@@ -17,10 +17,10 @@ A parte do Back-End e banco de dados:
 <p>As aula foram ministrada pelo professor Mayk Brito https://github.com/maykbrito </p>
 
 
-<p> Para aqueles que querem testar a aplicação e só você fazer</p> 
+<p> Para aqueles que querem testar primeiro precisa instalat as dependencias </p> 
  
      npm install
 
- <p> pois não coloquei o node_modules aqui no github  e após a instaação você  ja pode fazer o teste </p> 
+ <p>Após a instaação você  ja pode fazer o teste </p> 
 
      npm start  
